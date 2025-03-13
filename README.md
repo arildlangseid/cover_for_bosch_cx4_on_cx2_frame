@@ -13,7 +13,7 @@ https://github.com/jnivala/Cover-for-Bosch-gen4-on-gen2-classic-frame
 Sorry for the code-mess in this project. I have until now used OpenSCad for all my 3d-printer models.
 OpenSCad might not be the best tool for this job - but I managed.... by using uncountable numbers of magic-numbers, endless hours of trial and error - and lots spaghetti-hardcoding.
 I am not proud at all for the code - but I must say a big thanks to Raphael Luckom for his article about bezier-curves in OpenSCad! (link on top). He speeded up my rendering very much!
-I can see the bezier-curves can simplify mych of this project, but I did not spend time to convert and clean up after I found Raphaels article.<br />
+I can see the bezier-curves can simplify much of this project, but I did not spend time to convert and clean up after I found Raphaels article.<br />
 His article will be much used from now on! Thanks! 
 
 This project does the job and I managed to make a cover! Please free to clean up my code :-)
