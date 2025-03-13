@@ -1,7 +1,7 @@
 use <boschImports_v4.scad>
 
-use <../../../common/polyround.scad>
-use <../../../common/bezier_curve.scad>
+use <polyround.scad>
+use <bezier_curve.scad>
 
 module moveFrontOrgCoverPoint1() {
   translate([199,91,-.5])

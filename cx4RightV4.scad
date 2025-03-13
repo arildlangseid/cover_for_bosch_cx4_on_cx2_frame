@@ -2,7 +2,7 @@ use <boschImports_v4.scad>
 
 use <cx4LeftV4.scad>
 
-use <../../../common/bezier_curve.scad>
+use <bezier_curve.scad>
 
  module cx4CoverLeftStl() {
   import("cx4LeftV4_cosin_test.stl");
